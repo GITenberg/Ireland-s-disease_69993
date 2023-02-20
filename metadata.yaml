@@ -1,11 +1,16 @@
 _repo: Ireland-s-disease_69993
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69993-h/images/cover.jpg
 creator:
   author:
     agent_name: Daryl, Philippe
     gutenberg_agent_id: '55533'
     url: http://www.gutenberg.org/2009/agents/55533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69993#Ireland-s-disease
 gutenberg_issued: '2023-02-08'
 identifiers:
   gutenberg: '69993'
